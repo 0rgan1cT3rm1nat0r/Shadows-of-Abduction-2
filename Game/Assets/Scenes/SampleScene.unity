@@ -469,7 +469,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a255ed95b32b4b145945dcaca72d7d7e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -524,8 +524,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 137310347400466179, guid: 87ed79c4843b9b449b12d0742b89a294, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.667
+      value: -8.22
       objectReference: {fileID: 0}
+    - target: {fileID: 145641932717635159, guid: 87ed79c4843b9b449b12d0742b89a294, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 634835999633190517, guid: 87ed79c4843b9b449b12d0742b89a294, type: 3}
       propertyPath: m_Name
       value: Player
